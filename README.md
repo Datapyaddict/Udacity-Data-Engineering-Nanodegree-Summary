@@ -13,7 +13,7 @@ The Data Engineer's certificate can be found [here](udacity_data_engineer_cerifi
 ******
 Nanodegree's projects:
 
-*click on the below liks to deep dive into the projects*.
+*click on the below links to deep dive into the projects*.
 
 1. [Capstone project](https://github.com/Datapyaddict/udacity-project-data-engineer-capstone-project)  
 	> In this project, I'm building a pipeline that could fetch automatically stock markets' data from yahoo finance and financial tweets from Twitter via respective APIs on a scheduled basis, retreat them accordingly to fit in a relational data model and dump the final data back into a data lake as `parquet` files.
